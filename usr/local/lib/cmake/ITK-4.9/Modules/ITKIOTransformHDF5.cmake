@@ -1,0 +1,7 @@
+set(ITKIOTransformHDF5_LOADED 1)
+set(ITKIOTransformHDF5_DEPENDS "")
+set(ITKIOTransformHDF5_LIBRARIES "ITKIOTransformHDF5")
+set(ITKIOTransformHDF5_INCLUDE_DIRS "${ITK_INSTALL_PREFIX}/include/ITK-4.9")
+set(ITKIOTransformHDF5_LIBRARY_DIRS "")
+set(ITKIOTransformHDF5_TARGETS_FILE "")
+
